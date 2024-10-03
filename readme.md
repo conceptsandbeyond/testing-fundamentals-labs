@@ -34,3 +34,9 @@ cd UnitTesting
 
 
 2. write unit test case here - UnitTesting\RoomBookingApp.Core.Tests\RoomBookingRequestProcessorTest.cs
+
+
+Run the test cases using 
+```
+dotnet test
+```
