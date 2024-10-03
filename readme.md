@@ -24,6 +24,12 @@ Click on the Open IDE Button, It should open your IDE. Similar to below.
 # Write unit test case
 
 
+
+git clone https://github.com/conceptsandbeyond/testing-fundamentals-labs.git
+
+cd UnitTesting
+
+
 1. review the code at - UnitTesting\RoomBookingApp.Core\Processors\RoomBookingRequestProcessor.cs 
 
 
